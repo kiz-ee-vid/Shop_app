@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/auth"
+        android:icon="@drawable/ic_baseline_how_to_reg_24"
+        android:title="@string/authorization"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/fire"
+        android:icon="@drawable/ic_baseline_local_fire_department_24"
+        android:title="@string/change_theme"
+        app:showAsAction="ifRoom" />
+    <item
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="@string/currency"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/dollar"
+                android:title="@string/dollar_currency" />
+            <item
+                android:id="@+id/euro"
+                android:title="@string/euro_currency" />
+            <item
+                android:id="@+id/rub"
+                android:title="@string/ruble_currency" />
+            <item
+                android:id="@+id/byn"
+                android:title="@string/byn_currency" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Search</string>
+    <string name="title_notifications">Profile</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="author_name">Кизеев Илья</string>
+    <string name="groupe_name">гр. 951002</string>
+    <string name="lab_name">Лабораторная работа 2</string>
+    <string name="gmail">ilyakizeev@gmail.com</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="product_page">Product Page</string>
+    <string name="currency">Currency</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="dollar_currency">Dollar Currency</string>
+    <string name="euro_currency">Euro Currency</string>
+    <string name="byn_currency">BYN Currency</string>
+    <string name="ruble_currency">Ruble currency</string>
+    <string name="authorization">Authorization</string>
+</resources>

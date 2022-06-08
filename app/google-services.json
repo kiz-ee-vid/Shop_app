@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246381817281",
+    "firebase_url": "https://shop-279d4-default-rtdb.firebaseio.com",
+    "project_id": "shop-279d4",
+    "storage_bucket": "shop-279d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246381817281:android:38c4e2d7c5592886dd1340",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246381817281-h5v7gjbfbq40a0k1qb1sgkpovlhtgiu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUhNV8HxiSfhZ5iBUlq4yyKln4iA_avY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246381817281-h5v7gjbfbq40a0k1qb1sgkpovlhtgiu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

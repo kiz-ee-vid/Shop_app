@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable-v24/circle.xml" value="0.2564814814814815" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable-v24/ic_category.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2564814814814815" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2564814814814815" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_baseline_android_24.xml" value="0.17037037037037037" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.18055555555555555" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_baseline_local_fire_department_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2564814814814815" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1648148148148148" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2564814814814815" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.17037037037037037" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/drawable/ic_shop.xml" value="0.1361111111111111" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/category_item.xml" value="0.6" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_favorites.xml" value="0.25025641025641027" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_notifications.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_product.xml" value="0.264" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_search.xml" value="0.3255208333333333" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/fragment_web.xml" value="0.13020833333333334" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/layout/product_item.xml" value="0.33101851851851855" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25025641025641027" />
+        <entry key="..\:/Android_lessons/Lab2/app/src/main/res/menu/menu.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
