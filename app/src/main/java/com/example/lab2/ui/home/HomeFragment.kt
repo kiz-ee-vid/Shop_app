@@ -41,7 +41,7 @@ class HomeFragment : Fragment() {
     private val binding get() = _binding
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        (activity as MainActivity).binding.navView
+      //  (activity as MainActivity).binding.navView
         super.onCreate(savedInstanceState)
         if (homeViewModel?.api?.value.isNullOrEmpty())
             if (checkInternetConnection())
