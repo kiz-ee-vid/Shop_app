@@ -27,4 +27,10 @@
 
 :white_check_mark: 3. Осуществить механизм перехода на темную и светлую тему приложения
 
-:black_square_button: 4. Прикреплять к избранным позициям свои комментарии
+:negative_squared_cross_mark: 4. Прикреплять к избранным позициям свои комментарии
+
+## Скриншоты:
+
+![screen1](https://user-images.githubusercontent.com/79372028/181865698-544718a4-124e-4fed-978d-c2cb75dc13af.png)
+![screen2](https://user-images.githubusercontent.com/79372028/181865700-52a5df37-1e89-444f-906b-c5abc02ea0f2.png)
+![screen3](https://user-images.githubusercontent.com/79372028/181865701-8032eabc-fb6f-4655-b1a0-07916ec58e50.png)
